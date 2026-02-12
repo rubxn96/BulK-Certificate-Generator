@@ -2,7 +2,7 @@
 
 A fast, lightweight web application built with Python and Streamlit that automates the creation of customized certificates in bulk. 
 
-Perfect for event organizers managing college tech fests, TEDx events, webinars, or corporate training sessions, this tool eliminates the need to manually type hundreds of names onto a template.
+Perfect for event organizers managing college tech fests, webinars, or corporate training sessions, this tool eliminates the need to manually type hundreds of names onto a template.
 
 ## ✨ Features
 * **No Code Required for Users:** A clean, intuitive drag-and-drop web interface.
